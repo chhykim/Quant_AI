@@ -1,11 +1,15 @@
 
-계량경제학의 새로운 전략
+*계량경제학의 새로운 전략*
 
-지표모음
+<지표모음>
 
+
+로그수익률
 정형적인 지표
+
 RSI
-https://github.com/wooiraml/Quant_AI/blob/main/RSI.py
+- https://github.com/wooiraml/Quant_AI/blob/main/RSI.py
+
 모멘텀팩터
 팩터추산(3,4,5)
 SMB
@@ -13,15 +17,16 @@ HML
 RMW
 CMA
 VIX(레버리지 추산)
+모멘텀 팩터
 볼린저밴드
 스토캐스틱
 
-추세방법
+<추세법>
 
 홀트선형추세방법
 
 
-모델모음
+<금융 모델링모음>
 
 CAPM 
 ARCH
@@ -29,9 +34,19 @@ GARCH
 ARIMA
 (*) 추가형태 CCC
 
+M&A 밸류에이션 모델링
+재무 모델링
 
-AI모음
+
+<AI모음>
 
 확률미분
 몬테카를로 
 금융처리 NLP
+
+리버스 루틴
+(금융 NLP정보를 이용하여 모드형CMD창을 이용해 데이터를 추출
+경제시뮬레이션 게임
+(메르체브루,돈마론굴드,모리야고,에지와리슈)
+
+
